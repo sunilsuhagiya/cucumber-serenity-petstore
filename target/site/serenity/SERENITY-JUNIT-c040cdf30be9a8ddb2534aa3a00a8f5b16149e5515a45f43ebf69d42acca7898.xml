@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="Pet store io user functionality" skipped="0" tests="1" time="5.51" timestamp="2023-01-11T07:03:30.356+10:00[Australia/Brisbane]"><testcase name="CRUD Test"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+io.swagger.petstore.cucumber.steps.UserStepDefs.iCreateUserWithIdUsernameFirstnameLastnameEmailPasswordPhoneUserstatus(UserStepDefs.java:25)&#13;
+✽.When I create user with id "55" username "Ben45" firstname"stokes" lastname"root" email"ben12@yahoo.com" password"stokes654" phone"987654231" userstatus"1"(src/test/java/resources/feature/userCRUDtest.feature:5)&#13;
+</system-err></testcase></testsuite>
